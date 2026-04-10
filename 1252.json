@@ -49,7 +49,7 @@
       ]
     },
     {
-      "dayOfWeek": "Saterday",
+      "dayOfWeek": "Saturday",
       "evenWeek": [
         { "number": 1, "subject": "English", "teacher": "Smith J.", "room": "110" }
       ],
