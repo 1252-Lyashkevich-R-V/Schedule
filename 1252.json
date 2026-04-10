@@ -1,0 +1,23 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "evenWeek": [
+        { "number": 1, "subject": "Math", "teacher": "Ivanov I.I.", "room": "301" },
+        { "number": 2, "subject": "Physics", "teacher": "Petrov P.P.", "room": "205" }
+      ],
+      "oddWeek": [
+        { "number": 1, "subject": "Programming", "teacher": "Sidorov S.S.", "room": "402" }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "evenWeek": [
+        { "number": 1, "subject": "English", "teacher": "Smith J.", "room": "110" }
+      ],
+      "oddWeek": [
+        { "number": 1, "subject": "Math", "teacher": "Ivanov I.I.", "room": "301" }
+      ]
+    }
+  ]
+}
