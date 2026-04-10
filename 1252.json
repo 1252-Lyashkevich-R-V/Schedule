@@ -18,7 +18,7 @@
       "oddWeek": [
         { "number": 1, "subject": "Math", "teacher": "Ivanov I.I.", "room": "301" }
       ]
-    }
+    },
     {
       "dayOfWeek": "Wednesday",
       "evenWeek": [
@@ -37,7 +37,7 @@
       "oddWeek": [
         { "number": 1, "subject": "Math", "teacher": "Ivanov I.I.", "room": "301" }
       ]
-    }
+    },
     {
       "dayOfWeek": "Friday",
       "evenWeek": [
