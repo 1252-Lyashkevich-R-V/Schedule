@@ -3,57 +3,66 @@
     {
       "dayOfWeek": "Monday",
       "evenWeek": [
-        { "number": 2, "subject": "Комп практ.", "teacher": "", "room": "1-211" },
-        { "number": 3, "subject": "ИСТ", "teacher": "", "room": "1-319" },
-        { "number": 4, "subject": "АрхВС", "teacher": "", "room": "1-429" }
+        { "number": 2, "subject": "Комп практ.", "teacher": "Беднякова Т.М.", "room": "1-211" },
+        { "number": 3, "subject": "ИСТ", "teacher": "Русакова Елена Алексеевна", "room": "1-319" },
+        { "number": 4, "subject": "АрхВС", "teacher": "Земляная Е.В.", "room": "1-429" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "АрхВС (Лекция)", "teacher": "", "room": "1-122" },
-        { "number": 2, "subject": "Комп практ.", "teacher": "", "room": "1-211" },
-        { "number": 3, "subject": "ИСТ", "teacher": "", "room": "1-319" },
-        { "number": 4, "subject": "АрхВС", "teacher": "", "room": "1-429" }
+        { "number": 1, "subject": "АрхВС (Лекция)", "teacher": "Земляная Е.В.", "room": "1-122" },
+        { "number": 2, "subject": "Комп практ.", "teacher": "Беднякова Т.М.", "room": "1-211" },
+        { "number": 3, "subject": "ИСТ", "teacher": "Русакова Елена Алексеевна", "room": "1-319" },
+        { "number": 4, "subject": "АрхВС", "teacher": "Земляная Е.В.", "room": "1-429" }
       ]
     },
     {
       "dayOfWeek": "Tuesday",
       "evenWeek": [
-        { "number": 1, "subject": "Волейбол", "teacher": "", "room": "" },
-        { "number": 2, "subject": "МА (Лекция)", "teacher": "", "room": "1-118" },
-        { "number": 3, "subject": "Английский", "teacher": "", "room": "4-410" }
+        { "number": 1, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" },
+        { "number": 2, "subject": "МА (Лекция)", "teacher": "Гришанина Гульнара Эргашевна", "room": "1-118" },
+        { "number": 3, "subject": "Английский", "teacher": "Самохвалова Елена Викторовна", "room": "4-410" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Волейбол", "teacher": "", "room": "" },
-        { "number": 2, "subject": "МА (Лекция)", "teacher": "", "room": "1-118" },
-        { "number": 3, "subject": "Английский", "teacher": "", "room": "4-410" },
-        { "number": 4, "subject": "История России", "teacher": "", "room": "4-317" }
+        { "number": 1, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" },
+        { "number": 2, "subject": "МА (Лекция)", "teacher": "Гришанина Гульнара Эргашевна", "room": "1-118" },
+        { "number": 3, "subject": "Английский", "teacher": "Самохвалова Елена Викторовна", "room": "4-410" },
+        { "number": 4, "subject": "История России", "teacher": "Король Мария Петровна", "room": "4-317" }
       ]
     },
     {
       "dayOfWeek": "Wednesday",
       "evenWeek": [
-        { "number": 1, "subject": "ООП (Лекция)", "teacher": "", "room": "1-118" },
-        { "number": 2, "subject": "ООП", "teacher": "", "room": "1-424" },
-        { "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
+        { "number": 1, "subject": "ООП (Лекция)", "teacher": "Сычева Маргарита Петровна", "room": "1-118" },
+        { "number": 2, "subject": "ООП", "teacher": "Сычева Маргарита Петровна", "room": "1-424" },
+        { "number": 3, "subject": "МА", "teacher": "Гришанина Гульнара Эргашевна", "room": "2-310" },
         { "number": 5, "subject": "Английский", "teacher": "", "room": "4-410" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "ООП (Лекция)", "teacher": "", "room": "1-118" },
-        { "number": 2, "subject": "ООП", "teacher": "", "room": "1-424" },
-        { "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
-        { "number": 5, "subject": "Английский", "teacher": "", "room": "4-410" }
+        { "number": 1, "subject": "ООП (Лекция)", "teacher": "Сычева Маргарита Петровна", "room": "1-118" },
+        { "number": 2, "subject": "ООП", "teacher": "Сычева Маргарита Петровна", "room": "1-424" },
+        { "number": 3, "subject": "МА", "teacher": "Гришанина Гульнара Эргашевна", "room": "2-310" },
+        { "number": 5, "subject": "Английский", "teacher": "Самохвалова Елена Викторовна", "room": "4-410" }
       ]
     },
     {
       "dayOfWeek": "Thursday",
       "evenWeek": [
-        { "number": 1, "subject": "ИСТ (Лекция)", "teacher": "", "room": "1-120" },
-        { "number": 2, "subject": "МА (Лекция)", "teacher": "", "room": "1-122" },
-        { "number": 3, "subject": "Волейбол", "teacher": "", "room": "" }
+        { "number": 1, "subject": "ИСТ (Лекция)", "teacher": "Крейдер О.А.", "room": "1-120" },
+        { "number": 2, "subject": "МА (Лекция)", "teacher": "Гришанина Гульнара Эргашевна", "room": "1-122" },
+        { "number": 3, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" }
       ],
       "oddWeek": [
         { "number": 1, "subject": "ИСТ (Лекция)", "teacher": "", "room": "1-120" },
-        { "number": 2, "subject": "История России (Лекция)", "teacher": "", "room": "1-122" },
-        { "number": 3, "subject": "Волейбол", "teacher": "", "room": "" }
+        { "number": 2, "subject": "История России (Лекция)", "teacher": "Король Мария Петровна", "room": "1-122" },
+        { "number": 3, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" }
+      ]
+    },
+    {
+      "dayOfWeek": "Friday",
+      "evenWeek": [
+        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+      ],
+      "oddWeek": [
+        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
       ]
     },
     {
@@ -63,8 +72,17 @@
         { "number": 4, "subject": "Право", "teacher": "", "room": "2-103" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Право (запись)", "teacher": "", "room": "" }
+        { "number": 1, "subject": "Право (запись)", "teacher": "", "room": "Дистант" }
       ]
-    }
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "evenWeek": [
+        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+      ],
+      "oddWeek": [
+        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+      ]
+    },
   ]
 }
