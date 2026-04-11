@@ -3,20 +3,67 @@
     {
       "dayOfWeek": "Monday",
       "evenWeek": [
-        { "number": 1, "subject": "Math", "teacher": "Ivanov I.I.", "room": "301" },
-        { "number": 2, "subject": "Physics", "teacher": "Petrov P.P.", "room": "205" }
+        { "number": 2, "subject": "Комп практ.", "teacher": "", "room": "1-211" },
+        { "number": 3, "subject": "ИСТ", "teacher": "", "room": "1-319" },
+        { "number": 4, "subject": "АрхВС", "teacher": "", "room": "1-429" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Programming", "teacher": "Sidorov S.S.", "room": "402" }
+        { "number": 1, "subject": "АрхВС (Лекция)", "teacher": "", "room": "1-122" },
+        { "number": 2, "subject": "Комп практ.", "teacher": "", "room": "1-211" },
+        { "number": 3, "subject": "ИСТ", "teacher": "", "room": "1-319" },
+        { "number": 4, "subject": "АрхВС", "teacher": "", "room": "1-429" }
       ]
     },
     {
       "dayOfWeek": "Tuesday",
       "evenWeek": [
-        { "number": 1, "subject": "English", "teacher": "Smith J.", "room": "110" }
+        { "number": 1, "subject": "Волейбол", "teacher": "", "room": "" },
+        { "number": 2, "subject": "МА (Лекция)", "teacher": "", "room": "1-118" },
+        { "number": 3, "subject": "Английский", "teacher": "", "room": "4-410" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Math", "teacher": "Ivanov I.I.", "room": "301" }
+        { "number": 1, "subject": "Волейбол", "teacher": "", "room": "" },
+        { "number": 2, "subject": "МА (Лекция)", "teacher": "", "room": "1-118" },
+        { "number": 3, "subject": "Английский", "teacher": "", "room": "4-410" },
+        { "number": 4, "subject": "История России", "teacher": "", "room": "4-317" }
+      ]
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "evenWeek": [
+        { "number": 1, "subject": "ООП (Лекция)", "teacher": "", "room": "1-118" },
+        { "number": 2, "subject": "ООП", "teacher": "", "room": "1-424" },
+        { "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
+        { "number": 5, "subject": "Английский", "teacher": "", "room": "4-410" }
+      ],
+      "oddWeek": [
+        { "number": 1, "subject": "ООП (Лекция)", "teacher": "", "room": "1-118" },
+        { "number": 2, "subject": "ООП", "teacher": "", "room": "1-424" },
+        { "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
+        { "number": 5, "subject": "Английский", "teacher": "", "room": "4-410" }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "evenWeek": [
+        { "number": 1, "subject": "ИСТ (Лекция)", "teacher": "", "room": "1-120" },
+        { "number": 2, "subject": "МА (Лекция)", "teacher": "", "room": "1-122" },
+        { "number": 3, "subject": "Волейбол", "teacher": "", "room": "" }
+      ],
+      "oddWeek": [
+        { "number": 1, "subject": "ИСТ (Лекция)", "teacher": "", "room": "1-120" },
+        { "number": 2, "subject": "История России (Лекция)", "teacher": "", "room": "1-122" },
+        { "number": 3, "subject": "Волейбол", "teacher": "", "room": "" }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "evenWeek": [
+        { "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
+        { "number": 4, "subject": "Право", "teacher": "", "room": "2-103" }
+      ],
+      "oddWeek": [
+        { "number": 1, "subject": "Право (запись)", "teacher": "", "room": "" }
       ]
     }
   ]
