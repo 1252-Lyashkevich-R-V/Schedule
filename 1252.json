@@ -83,6 +83,6 @@
       "oddWeek": [
         { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
       ]
-    },
+    }
   ]
 }
