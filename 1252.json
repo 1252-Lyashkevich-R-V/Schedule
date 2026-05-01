@@ -59,10 +59,10 @@
     {
       "dayOfWeek": "Friday",
       "evenWeek": [
-        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+        { "number": 1, "subject": "Brueh", "teacher": "", "room": "" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+        { "number": 1, "subject": "Brueh", "teacher": "", "room": "" }
       ]
     },
     {
