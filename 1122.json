@@ -1,0 +1,98 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "evenWeek": [
+        { "type": "lecture", "number": 1, "subject": "Математический анализ", "teacher": "Арбузова Е.В.", "room": "1-120" },
+        { "type": "seminar", "number": 2, "subject": "Иностранный язык", "teacher": "Белевич Т.В.", "room": "4-208" },
+        { "type": "seminar", "number": 3, "subject": "Физика", "teacher": "Афанасьев С.В.", "room": "1-118" },
+        { "type": "seminar", "number": 4, "subject": "История России", "teacher": "Рябцев С.В.", "room": "4-317" },
+        { "type": "seminar", "number": 5, "subject": "ОВП", "teacher": "Моталов Ю.Г.", "room": "корпус 5а" }
+      ],
+      "oddWeek": [
+        { "type": "lecture", "number": 1, "subject": "Математический анализ", "teacher": "Арбузова Е.В.", "room": "1-120" },
+        { "type": "seminar", "number": 2, "subject": "Иностранный язык", "teacher": "Белевич Т.В.", "room": "4-208" },
+        { "type": "seminar", "number": 3, "subject": "Физика", "teacher": "Афанасьев С.В.", "room": "1-118" },
+        { "type": "seminar", "number": 4, "subject": "Физика", "teacher": "Клименко А.А.", "room": "2-313" },
+        { "type": "seminar", "number": 5, "subject": "ОВП", "teacher": "Моталов Ю.Г.", "room": "корпус 5а" }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "evenWeek": [
+        { "type": "lecture", "number": 1, "subject": "Линейная алгебра и АГ", "teacher": "Богомолова Е.В.", "room": "1-120" },
+        { "type": "seminar", "number": 2, "subject": "Линейная алгебра и АГ", "teacher": "Богомолова Е.В.", "room": "2-309" },
+        { "type": "seminar", "number": 3, "subject": "Иностранный язык", "teacher": "Белевич Т.В.", "room": "4-208" },
+        { "type": "sport", "number": 4, "subject": "Волейбол", "teacher": "Сандалова Т.В.", "room": "с/к Олимп" },
+        { "type": "seminar", "number": 5, "subject": "БЖ", "teacher": "Пряхин В.Н.", "room": "1-120" }
+      ],
+      "oddWeek": [
+        { "type": "lecture", "number": 1, "subject": "Линейная алгебра и АГ", "teacher": "Богомолова Е.В.", "room": "1-120" },
+        { "type": "seminar", "number": 2, "subject": "Линейная алгебра и АГ", "teacher": "Богомолова Е.В.", "room": "2-309" },
+        { "type": "seminar", "number": 3, "subject": "Иностранный язык", "teacher": "Белевич Т.В.", "room": "4-208" },
+        { "type": "seminar", "number": 4, "subject": "Физика", "teacher": "Клименко А.А.", "room": "2-309" },
+        { "type": "seminar", "number": 5, "subject": "БЖ", "teacher": "Пряхин В.Н.", "room": "1-120" }
+      ]
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "evenWeek": [
+        { "type": "seminar", "number": 1, "subject": "Иностранный язык", "teacher": "Пустовалова А.А.", "room": "4-417" },
+        { "type": "seminar", "number": 2, "subject": "ОВП", "teacher": "Моталов Ю.Г.", "room": "4-315" },
+        { "type": "lecture", "number": 3, "subject": "Молекулярная физика и ТД", "teacher": "Тайнов В.А.", "room": "5-309" },
+        { "type": "sport", "number": 4, "subject": "Волейбол", "teacher": "Сандалова Т.В.", "room": "с/к Олимп" }
+      ],
+      "oddWeek": [
+        { "type": "seminar", "number": 1, "subject": "Иностранный язык", "teacher": "Пустовалова А.А.", "room": "4-417" },
+        { "type": "seminar", "number": 2, "subject": "ОВП", "teacher": "Моталов Ю.Г.", "room": "4-315" },
+        { "type": "lecture", "number": 3, "subject": "Молекулярная физика и ТД", "teacher": "Тайнов В.А.", "room": "5-309" },
+        { "type": "seminar", "number": 4, "subject": "БЖ", "teacher": "Пряхин В.Н.", "room": "2-103" }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "evenWeek": [
+        { "type": "seminar", "number": 1, "subject": "ИКГ", "teacher": "Пискунова О.И.", "room": "5-310" },
+        { "type": "seminar", "number": 2, "subject": "Линейная алгебра и АГ", "teacher": "Рогачева Н.С.", "room": "2-312" },
+        { "type": "seminar", "number": 3, "subject": "Математический анализ", "teacher": "Рахмонов И.Р.", "room": "2-314" },
+        { "type": "seminar", "number": 4, "subject": "ИКГ", "teacher": "Константинов Д.Ю.", "room": "1-219" }
+      ],
+      "oddWeek": [
+        { "type": "seminar", "number": 1, "subject": "ИКГ", "teacher": "Пискунова О.И.", "room": "5-310" },
+        { "type": "seminar", "number": 2, "subject": "Линейная алгебра и АГ", "teacher": "Рогачева Н.С.", "room": "2-312" },
+        { "type": "seminar", "number": 3, "subject": "Математический анализ", "teacher": "Рахмонов И.Р.", "room": "2-314" },
+        { "type": "seminar", "number": 4, "subject": "Математический анализ", "teacher": "Рогачева Н.С.", "room": "2-312" }
+      ]
+    },
+    {
+      "dayOfWeek": "Friday",
+      "evenWeek": [
+       { "type": "weekend" }
+      ],
+      "oddWeek": [
+        { "type": "seminar", "number": 1, "subject": " Введение в специальность", "teacher": "Морозов Д.М.", "room": "ОИЯИ" },
+        { "type": "seminar", "number": 2, "subject": " Введение в специальность", "teacher": "Морозов Д.М.", "room": "ОИЯИ" },
+        { "type": "seminar", "number": 3, "subject": " Введение в специальность", "teacher": "Морозов Д.М.", "room": "ОИЯИ" }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "evenWeek": [
+        { "type": "weekend" }
+      ],
+      "oddWeek": [
+        { "type": "seminar", "number": 1, "subject": "ИКГ", "teacher": "Баулина Л.В.", "room": "1-219" },
+        { "type": "seminar", "number": 2, "subject": "ИКГ", "teacher": "Баулина Л.В.", "room": "1-219" }
+      ]
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "evenWeek": [
+        { "type": "weekend" }
+      ],
+      "oddWeek": [
+        { "type": "weekend" }
+      ]
+    }
+  ]
+}
