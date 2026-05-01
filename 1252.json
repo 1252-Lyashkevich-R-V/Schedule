@@ -68,6 +68,8 @@
     {
       "dayOfWeek": "Saturday",
       "evenWeek": [
+        { "type": "lecture", "number": 1, "subject": "ИСТ", "teacher": "Крейдер О.А.", "room": "1-120" },
+        { "type": "sport", "number": 3, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" },
         { "type": "seminar", "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
         { "type": "seminar", "number": 4, "subject": "Право", "teacher": "Коваленко М.А.", "room": "2-103" }
       ],
