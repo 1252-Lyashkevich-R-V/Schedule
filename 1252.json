@@ -3,85 +3,85 @@
     {
       "dayOfWeek": "Monday",
       "evenWeek": [
-        { "number": 2, "subject": "Комп практ.", "teacher": "Беднякова Татьяна Михайловна", "room": "1-211" },
-        { "number": 3, "subject": "ИСТ", "teacher": "Русакова Елена Александровна", "room": "1-319" },
-        { "number": 4, "subject": "АрхВС", "teacher": "Земляная Елена Валерьевна", "room": "1-429" }
+        { "type": "seminar", "number": 2, "subject": "Комп практ.", "teacher": "Беднякова Т.М.", "room": "1-211" },
+        { "type": "seminar", "number": 3, "subject": "ИСТ", "teacher": "Русакова Е.А.", "room": "1-319" },
+        { "type": "seminar", "number": 4, "subject": "АрхВС", "teacher": "Земляная Е.В.", "room": "1-429" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "АрхВС (Лекция)", "teacher": "Земляная Елена Валерьевна", "room": "1-122" },
-        { "number": 2, "subject": "Комп практ.", "teacher": "Беднякова Татьяна Михайловна", "room": "1-211" },
-        { "number": 3, "subject": "ИСТ", "teacher": "Русакова Елена Александровна", "room": "1-319" },
-        { "number": 4, "subject": "АрхВС", "teacher": "Земляная Елена Валерьевна", "room": "1-429" }
+        { "type": "lecture", "number": 1, "subject": "АрхВС", "teacher": "Земляная Е.В.", "room": "1-122" },
+        { "type": "seminar", "number": 2, "subject": "Комп практ.", "teacher": "Беднякова Т.М.", "room": "1-211" },
+        { "type": "seminar", "number": 3, "subject": "ИСТ", "teacher": "Русакова Е.А.", "room": "1-319" },
+        { "type": "seminar", "number": 4, "subject": "АрхВС", "teacher": "Земляная Е.В.", "room": "1-429" }
       ]
     },
     {
       "dayOfWeek": "Tuesday",
       "evenWeek": [
-        { "number": 1, "subject": "Волейбол", "teacher": "Белова Елена Валерьевна", "room": "Олимп" },
-        { "number": 2, "subject": "МА (Лекция)", "teacher": "Гришанина Гульнара Эргашевна", "room": "1-118" },
-        { "number": 3, "subject": "Английский", "teacher": "Самохвалова Елена Викторовна", "room": "4-410" }
+        { "type": "sport", "number": 1, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" },
+        { "type": "lecture", "number": 2, "subject": "МА", "teacher": "Гришанина Г.Э.", "room": "1-118" },
+        { "type": "seminar", "number": 3, "subject": "Английский", "teacher": "Самохвалова Е.В.", "room": "4-410" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Волейбол", "teacher": "Белова Елена Валерьевна", "room": "Олимп" },
-        { "number": 2, "subject": "МА (Лекция)", "teacher": "Гришанина Гульнара Эргашевна", "room": "1-118" },
-        { "number": 3, "subject": "Английский", "teacher": "Самохвалова Елена Викторовна", "room": "4-410" },
-        { "number": 4, "subject": "История России", "teacher": "Король Мария Петровна", "room": "4-317" }
+        { "type": "sport", "number": 1, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" },
+        { "type": "lecture", "number": 2, "subject": "МА", "teacher": "Гришанина Г.Э.", "room": "1-118" },
+        { "type": "seminar", "number": 3, "subject": "Английский", "teacher": "Самохвалова Е.В.", "room": "4-410" },
+        { "type": "seminar", "number": 4, "subject": "История России", "teacher": "Король М.П.", "room": "4-317" }
       ]
     },
     {
       "dayOfWeek": "Wednesday",
       "evenWeek": [
-        { "number": 1, "subject": "ООП (Лекция)", "teacher": "Сычева Маргарита Петровна", "room": "1-118" },
-        { "number": 2, "subject": "ООП", "teacher": "Сычева Маргарита Петровна", "room": "1-424" },
-        { "number": 3, "subject": "МА", "teacher": "Гришанина Гульнара Эргашевна", "room": "2-310" },
-        { "number": 5, "subject": "Английский", "teacher": "Самохвалова Елена Викторовна", "room": "4-410" }
+        { "type": "lecture", "number": 1, "subject": "ООП", "teacher": "Сычева М.П.", "room": "1-118" },
+        { "type": "seminar", "number": 2, "subject": "ООП", "teacher": "Сычева М.П.", "room": "1-424" },
+        { "type": "seminar", "number": 3, "subject": "МА", "teacher": "Гришанина Г.Э.", "room": "2-310" },
+        { "type": "seminar", "number": 5, "subject": "Английский", "teacher": "Самохвалова Е.В.", "room": "4-410" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "ООП (Лекция)", "teacher": "Сычева Маргарита Петровна", "room": "1-118" },
-        { "number": 2, "subject": "ООП", "teacher": "Сычева Маргарита Петровна", "room": "1-424" },
-        { "number": 3, "subject": "МА", "teacher": "Гришанина Гульнара Эргашевна", "room": "2-310" },
-        { "number": 5, "subject": "Английский", "teacher": "Самохвалова Елена Викторовна", "room": "4-410" }
+        { "type": "lecture", "number": 1, "subject": "ООП", "teacher": "Сычева М.П.", "room": "1-118" },
+        { "type": "seminar", "number": 2, "subject": "ООП", "teacher": "Сычева М.П.", "room": "1-424" },
+        { "type": "seminar", "number": 3, "subject": "МА", "teacher": "Гришанина Г.Э.", "room": "2-310" },
+        { "type": "seminar", "number": 5, "subject": "Английский", "teacher": "Самохвалова Е.В.", "room": "4-410" }
       ]
     },
     {
       "dayOfWeek": "Thursday",
       "evenWeek": [
-        { "number": 1, "subject": "ИСТ (Лекция)", "teacher": "Крейдер Оксана Александровна", "room": "1-120" },
-        { "number": 2, "subject": "МА (Лекция)", "teacher": "Гришанина Гульнара Эргашевна", "room": "1-122" },
-        { "number": 3, "subject": "Волейбол", "teacher": "Белова Елена Валерьевна", "room": "Олимп" }
+        { "type": "lecture", "number": 1, "subject": "ИСТ", "teacher": "Крейдер О.А.", "room": "1-120" },
+        { "type": "lecture", "number": 2, "subject": "МА", "teacher": "Гришанина Г.Э.", "room": "1-122" },
+        { "type": "sport", "number": 3, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "ИСТ (Лекция)", "teacher": "Крейдер Оксана Александровна", "room": "1-120" },
-        { "number": 2, "subject": "История России (Лекция)", "teacher": "Король Мария Петровна", "room": "1-122" },
-        { "number": 3, "subject": "Волейбол", "teacher": "Белова Елена Валерьевна", "room": "Олимп" }
+        { "type": "lecture", "number": 1, "subject": "ИСТ", "teacher": "Крейдер О.А.", "room": "1-120" },
+        { "type": "lecture", "number": 2, "subject": "История России", "teacher": "Король М.П.", "room": "1-122" },
+        { "type": "sport", "number": 3, "subject": "Волейбол", "teacher": "Белова Е.В.", "room": "Олимп" }
       ]
     },
     {
       "dayOfWeek": "Friday",
       "evenWeek": [
-        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+        { "type": "weekend" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+        { "type": "weekend" }
       ]
     },
     {
       "dayOfWeek": "Saturday",
       "evenWeek": [
-        { "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
-        { "number": 4, "subject": "Право", "teacher": "Коваленко Мария Александровна", "room": "2-103" }
+        { "type": "seminar", "number": 3, "subject": "МА", "teacher": "", "room": "2-310" },
+        { "type": "seminar", "number": 4, "subject": "Право", "teacher": "Коваленко М.А.", "room": "2-103" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Право (запись)", "teacher": "", "room": "Дистант" }
+        { "type": "seminar", "number": 1, "subject": "Право (запись)", "teacher": "", "room": "Дистант" }
       ]
     },
     {
       "dayOfWeek": "Sunday",
       "evenWeek": [
-        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+        { "type": "weekend" }
       ],
       "oddWeek": [
-        { "number": 1, "subject": "Сидим дома", "teacher": "", "room": "" }
+        { "type": "weekend" }
       ]
     }
   ]
