@@ -1,0 +1,43 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "sda",
+          "teacher": "dasdas",
+          "room": "111"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "sfda",
+          "teacher": "sadsad",
+          "room": "222"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Friday",
+      "oddWeek": [],
+      "evenWeek": []
+    }
+  ]
+}
