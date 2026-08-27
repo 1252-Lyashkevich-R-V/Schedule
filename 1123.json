@@ -1,0 +1,49 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "oddWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Friday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "oddWeek": [],
+      "evenWeek": []
+    }
+  ]
+}
