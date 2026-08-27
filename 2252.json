@@ -1,0 +1,344 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Дифферинциальные уравнения",
+          "teacher": "Чулуунбаатар Г.",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Веб-технологии",
+          "teacher": "Бархатова И.А.",
+          "room": "1-215",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Дифферинциальные уравнения",
+          "teacher": "Чулуунбаатар Г.",
+          "room": "1-431",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Сети и телекоммуникации",
+          "teacher": "Торкель Д.И.",
+          "room": "1-118",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Дифферинциальные уравнения",
+          "teacher": "Чулуунбаатар Г.",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Веб-технологии",
+          "teacher": "Бархатова И.А.",
+          "room": "1-215",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Дифферинциальные уравнения",
+          "teacher": "Чулуунбаатар Г.",
+          "room": "1-431",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Сети и телекоммуникации",
+          "teacher": "Торкель Д.И.",
+          "room": "1-118",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Методы оптимизации",
+          "teacher": "Крейдер Оксана Александровна",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Теория вероятностей",
+          "teacher": "Гришанина Гульнара Эргашевна",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "Английский язык",
+          "teacher": "Самохвалова Елена Викторовна",
+          "room": "4-410",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Методы оптимизации",
+          "teacher": "Крейдер Оксана Александровна",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Теория вероятностей",
+          "teacher": "Гришанина Гульнара Эргашевна",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "Английский язык",
+          "teacher": "Самохвалова Елена Викторовна",
+          "room": "4-410",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Структуры и алгоритмы обработки данных",
+          "teacher": "Сычева Маргарита Петровна",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Баскетбол",
+          "teacher": "Чебыкина Е.В.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Дискретная математика",
+          "teacher": "Дедович Т.Г.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Сети и телекоммуникации",
+          "teacher": "Торкель Д.И.",
+          "room": "1-424",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "Структуры и алгоритмы обработки данных",
+          "teacher": "Сычева Маргарита Петровна",
+          "room": "1-415",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Структуры и алгоритмы обработки данных",
+          "teacher": "Сычева Маргарита Петровна",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Баскетбол",
+          "teacher": "Чебыкина Е.В.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Дискретная математика",
+          "teacher": "Дедович Т.Г.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Сети и телекоммуникации",
+          "teacher": "Торкель Д.И.",
+          "room": "1-424",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "Структуры и алгоритмы обработки данных",
+          "teacher": "Сычева Маргарита Петровна",
+          "room": "1-415",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Методы оптимизации",
+          "teacher": "Крейдер Оксана Александровна",
+          "room": "1-209",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Теория вероятности",
+          "teacher": "Хмелев А.В.",
+          "room": "4-111",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Методы оптимизации",
+          "teacher": "Крейдер Оксана Александровна",
+          "room": "1-209",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Теория вероятности",
+          "teacher": "Хмелев А.В.",
+          "room": "4-111",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Friday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Веб-технологии",
+          "teacher": "Филозова И.А.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Баскетбол",
+          "teacher": "Полтавская А.М.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Английский язык",
+          "teacher": "Самохвалова Елена Викторовна",
+          "room": "4-410",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Дискретная математика",
+          "teacher": "Зинченко Д.А.",
+          "room": "1-415",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Компьютерная графика",
+          "teacher": "Таначева Т.В.",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Баскетбол",
+          "teacher": "Полтавская А.М.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Английский язык",
+          "teacher": "Самохвалова Елена Викторовна",
+          "room": "4-410",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Дискретная математика",
+          "teacher": "Зинченко Д.А.",
+          "room": "1-415",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "oddWeek": [],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Компьютерная графика",
+          "teacher": "Харламов В.А.",
+          "room": "1-424",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Компьютерная графика",
+          "teacher": "Харламов В.А.",
+          "room": "1-424",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "oddWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ]
+    }
+  ]
+}
