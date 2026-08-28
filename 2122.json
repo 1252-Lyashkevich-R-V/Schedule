@@ -1,0 +1,76 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Нет",
+          "teacher": "",
+          "room": "",
+          "type": "sportLesson"
+        },
+        {
+          "number": 2,
+          "subject": "Баскетбол",
+          "teacher": "Синицин А. А.",
+          "room": "Спортивный зал",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Ведение в программирование",
+          "teacher": "Самойлов Ю. Е.",
+          "room": "1-430",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Физика",
+          "teacher": "Авдеев С. П.",
+          "room": "2-103",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "Физика",
+          "teacher": "Авдеев С. П.",
+          "room": "2-103",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Friday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "oddWeek": [],
+      "evenWeek": []
+    }
+  ]
+}
