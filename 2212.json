@@ -1,0 +1,319 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Педагогическая психология",
+          "teacher": "Вымекаева Т.В",
+          "room": "Дистант",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Педагогическая психология",
+          "teacher": "Вымекаева Т.В",
+          "room": "Дистант",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Журавлева О.Д.",
+          "room": "4-411",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Общий психол. практикум",
+          "teacher": "Долженко А.Н.",
+          "room": "5-209",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Педагогическая психология",
+          "teacher": "Вымекаева Т.В",
+          "room": "Дистант",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Педагогическая психология",
+          "teacher": "Вымекаева Т.В",
+          "room": "Дистант",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Журавлева О.Д.",
+          "room": "4-411",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Общий психол. практикум",
+          "teacher": "Долженко А.Н.",
+          "room": "5-209",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Психология развития и возрастная психология",
+          "teacher": "Хозиева М.В",
+          "room": "5-213",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Психология развития и возрастная психология",
+          "teacher": "Хозиева М.В",
+          "room": "5-213",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Социальная психология",
+          "teacher": "Долгунова Л.С.",
+          "room": "5-213а",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Плавание",
+          "teacher": "Березуцкая А.Ю.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 5,
+          "subject": "Основы патопс.герменевтики",
+          "teacher": "Фролов Е.А.",
+          "room": "5-210",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Психология развития и возрастная психология",
+          "teacher": "Хозиева М.В",
+          "room": "5-213",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Социальная психология",
+          "teacher": "Долгунова Л.С.",
+          "room": "5-213а",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Социальная психология",
+          "teacher": "Долгунова Л.С.",
+          "room": "5-213а",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Плавание",
+          "teacher": "Березуцкая А.Ю.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 5,
+          "subject": "Основы патопс.герменевтики",
+          "teacher": "Фролов Е.А.",
+          "room": "5-210",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Педагогическая психология",
+          "teacher": "Долженко А.Н.",
+          "room": "5-213а",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Педагогика",
+          "teacher": "Долженко А.Н.",
+          "room": "5-213а",
+          "type": "lecture"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Общая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Общая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "Педагогика",
+          "teacher": "Долженко А.Н.",
+          "room": "5-213а",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Педагогика",
+          "teacher": "Долженко А.Н.",
+          "room": "5-213а",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Педагогическая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Педагогическая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "Педагогическая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Общая психология",
+          "teacher": "Фролов Е.А.",
+          "room": "5-210",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Педагогическая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Педагогическая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "Педагогическая психология",
+          "teacher": "Хозиев В.Б.",
+          "room": "5-210",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Общая психология",
+          "teacher": "Фролов Е.А.",
+          "room": "5-210",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Friday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Нормальная физиология",
+          "teacher": "Чермных Л.П.",
+          "room": "5-213",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Плавание",
+          "teacher": "Калагина Л.И.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Нормальная физиология",
+          "teacher": "Чермных Л.П.",
+          "room": "5-213",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Плавание",
+          "teacher": "Калагина Л.И.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Журавлева О.Д.",
+          "room": "4-411",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "oddWeek": [],
+      "evenWeek": []
+    }
+  ]
+}
