@@ -81,6 +81,13 @@
       "dayOfWeek": "Tuesday",
       "oddWeek": [
         {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
+        {
           "number": 2,
           "subject": "Теория вероятностей",
           "teacher": "Гришанина Гульнара Эргашевна",
@@ -96,6 +103,13 @@
         }
       ],
       "evenWeek": [
+        {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
         {
           "number": 2,
           "subject": "Теория вероятностей",
