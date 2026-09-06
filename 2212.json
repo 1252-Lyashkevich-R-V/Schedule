@@ -278,6 +278,13 @@
           "room": "",
           "type": "sportLesson",
           "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Журавлева О.Д.",
+          "room": "4-411",
+          "type": "seminar"
         }
       ],
       "evenWeek": [
