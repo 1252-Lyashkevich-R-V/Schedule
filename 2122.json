@@ -1,0 +1,350 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Инженерная и КГ",
+          "teacher": "Лаптев И.Д.",
+          "room": "5-315",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Баскетбол",
+          "teacher": "Синицин А.А.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Введение в прогр.",
+          "teacher": "Самойлов Ю.Е.",
+          "room": "1-430",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Физика",
+          "teacher": "Авдеев С.П.",
+          "room": "2-103",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "Физика",
+          "teacher": "Авдеев С.П.",
+          "room": "2-103",
+          "type": "lecture"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Инженерная и компьютерная графика",
+          "teacher": "Пискунова О.И.",
+          "room": "5-310",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Баскетбол",
+          "teacher": "Синицин А.А.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Введение в прогр.",
+          "teacher": "Самойлов Ю.Е.",
+          "room": "1-430",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Физика",
+          "teacher": "Авдеев С.П.",
+          "room": "2-103",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "Физика",
+          "teacher": "Авдеев С.П.",
+          "room": "2-103",
+          "type": "lecture"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Дифференциальные уравнения (ДУ)",
+          "teacher": "Митина Т.В.",
+          "room": "1-122",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "МА",
+          "teacher": "Богомолова Е.В.",
+          "room": "2-309",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Кравченко Д.О.",
+          "room": "2-209",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Векторный и тенз.анализ (ВТА)",
+          "teacher": "Душанов Э.Б.",
+          "room": "2-309",
+          "type": "lecture"
+        },
+        {
+          "number": 5,
+          "subject": "ВТА",
+          "teacher": "Душанов Э.Б.",
+          "room": "2-309",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Дифференциальные уравнения (ДУ)",
+          "teacher": "Митина Т.В.",
+          "room": "1-122",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "МА",
+          "teacher": "Богомолова Е.В.",
+          "room": "2-309",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Кравченко Д.О.",
+          "room": "2-209",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "Векторный и тенз.анализ (ВТА)",
+          "teacher": "Душанов Э.Б.",
+          "room": "2-309",
+          "type": "lecture"
+        },
+        {
+          "number": 5,
+          "subject": "Физика",
+          "teacher": "Авдеев С.П.",
+          "room": "2-313",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Математический анализ",
+          "teacher": "Богомолова Е.В.",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Иностранный язык",
+          "teacher": "Кравченко Д.О.",
+          "room": "4-417",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Теоретическая механика",
+          "teacher": "Симоненко В.Г.",
+          "room": "5-309",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Теоретическая механика",
+          "teacher": "Симоненко В.Г.",
+          "room": "5-309",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "ИНТЕГРАТИВНЫЙ МОДУЛЬ : МОЛОДЕЖНАЯ ПОЛИТИКА (обязательное освоение)",
+          "teacher": "",
+          "room": "корпус 5а (конференц-зал)",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Математический анализ",
+          "teacher": "Богомолова Е.В.",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Иностранный язык",
+          "teacher": "Кравченко Д.О.",
+          "room": "4-417",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Теоретическая механика",
+          "teacher": "Симоненко В.Г.",
+          "room": "5-309",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Теоретическая механика",
+          "teacher": "Симоненко В.Г.",
+          "room": "5-309",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "ИНТЕГРАТИВНЫЙ МОДУЛЬ : МОЛОДЕЖНАЯ ПОЛИТИКА (обязательное освоение)",
+          "teacher": "",
+          "room": "корпус 5а (конференц-зал)",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Friday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Дифференциальные уравнения",
+          "teacher": "Митина Т.В.",
+          "room": "2-313",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Введение в программирование",
+          "teacher": "Сычев П.П.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "Баскетбол",
+          "teacher": "Синицин А.А.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Дифференциальные уравнения",
+          "teacher": "Митина Т.В.",
+          "room": "2-313",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Введение в программирование",
+          "teacher": "Сычев П.П.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "Баскетбол",
+          "teacher": "Синицин А.А.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Культурология",
+          "teacher": "Хохлова С.В.",
+          "room": "1-122",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "teacher": "Хохлова С.В.",
+          "room": "1-122",
+          "type": "lecture"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Инженерная и КГ",
+          "teacher": "Лаптев И.Д.",
+          "room": "5-315",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Инженерная и КГ",
+          "teacher": "Лаптев И.Д.",
+          "room": "5-315",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "oddWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ]
+    }
+  ]
+}
