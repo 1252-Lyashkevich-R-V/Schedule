@@ -145,10 +145,11 @@
     {
       "dayOfWeek": "Wednesday",
       "oddWeek": [
-       {
+        {
           "number": 0,
           "type": "weekend"
         }
+      ],
       "evenWeek": [
         {
           "number": 0,
