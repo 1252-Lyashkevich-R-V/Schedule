@@ -145,77 +145,14 @@
     {
       "dayOfWeek": "Wednesday",
       "oddWeek": [
-        {
-          "number": 1,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 2,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 3,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 4,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 5,
-          "subject": "ИНТЕГРАТИВНЫЙ МОДУЛЬ : МОЛОДЕЖНАЯ ПОЛИТИКА (обязательное освоение)",
-          "teacher": "",
-          "room": "корпус 5а (конференц-зал)",
-          "type": "seminar"
+       {
+          "number": 0,
+          "type": "weekend"
         }
-      ],
       "evenWeek": [
         {
-          "number": 1,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 2,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 3,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 4,
-          "subject": "",
-          "teacher": "",
-          "room": "",
-          "type": "seminar"
-        },
-        {
-          "number": 5,
-          "subject": "ИНТЕГРАТИВНЫЙ МОДУЛЬ : МОЛОДЕЖНАЯ ПОЛИТИКА (обязательное освоение)",
-          "teacher": "",
-          "room": "корпус 5а (конференц-зал)",
-          "type": "seminar"
+          "number": 0,
+          "type": "weekend"
         }
       ]
     },
