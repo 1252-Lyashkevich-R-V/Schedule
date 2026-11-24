@@ -1,0 +1,364 @@
+{
+  "days": [
+    {
+      "dayOfWeek": "Monday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Теория вероятностей и математическая статистика (ТВМС)",
+          "teacher": "Ермольчик В.Л.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Дискретная математика (ДМ)",
+          "teacher": "Аверичев Г.С.",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "В-Т",
+          "teacher": "Лебедев П.С.",
+          "room": "1-425",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "ТВМС",
+          "teacher": "Волобуева Д.А.",
+          "room": "2-218",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Теория вероятностей и математическая статистика (ТВМС)",
+          "teacher": "Ермольчик В.Л.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Дискретная математика (ДМ)",
+          "teacher": "Аверичев Г.С.",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "В-Т",
+          "teacher": "Лебедев П.С.",
+          "room": "1-425",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "ТВМС",
+          "teacher": "Волобуева Д.А.",
+          "room": "2-218",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "ЭиП",
+          "teacher": "Волкова А.А.",
+          "room": "1-210",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Tuesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Иностранный язык",
+          "teacher": "Белевич Т.В.",
+          "room": "4-413",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Методы оптимизации (МО)",
+          "teacher": "Кирпичева Е.Ю.",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Плавание",
+          "teacher": "Березуцкая А.Ю.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "КИС",
+          "teacher": "Тимонина Л.С.",
+          "room": "1-214",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Иностранный язык",
+          "teacher": "Белевич Т.В.",
+          "room": "4-413",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Методы оптимизации (МО)",
+          "teacher": "Кирпичева Е.Ю.",
+          "room": "1-120",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Плавание",
+          "teacher": "Березуцкая А.Ю.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Wednesday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Структуры и алгоритмы обработки данных (САОД)",
+          "teacher": "Сеннер А.Е. (1-8 нед.)",
+          "room": "2-103",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "ДМ",
+          "teacher": "Рысева О.А.",
+          "room": "1-431",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Белевич Т.В.",
+          "room": "4-413",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "МО",
+          "teacher": "Потемкина С.В.",
+          "room": "1-209",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "Интегративный модуль: молодежная политика (обязательное освоение)",
+          "teacher": "",
+          "room": "корпус 5а (конференц-зал)",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Структуры и алгоритмы обработки данных (САОД)",
+          "teacher": "Сеннер А.Е. (1-8 нед.)",
+          "room": "2-103",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "ДМ",
+          "teacher": "Рысева О.А.",
+          "room": "1-431",
+          "type": "seminar"
+        },
+        {
+          "number": 3,
+          "subject": "Иностранный язык",
+          "teacher": "Белевич Т.В.",
+          "room": "4-413",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "МО",
+          "teacher": "Потемкина С.В.",
+          "room": "1-209",
+          "type": "seminar"
+        },
+        {
+          "number": 5,
+          "subject": "Интегративный модуль: молодежная политика (обязательное освоение)",
+          "teacher": "",
+          "room": "корпус 5а (конференц-зал)",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Thursday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Концепции современного естествознания",
+          "teacher": "Калиновский Ю.Л. Анисимова О.В. Полотнянко Н.А. Чермных Л.П.",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Плавание",
+          "teacher": "Калагина Л.И.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Основы ММ",
+          "teacher": "Волкова А.А.",
+          "room": "4-415",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "САОД",
+          "teacher": "Самойлов Ю.Е.",
+          "room": "1-430",
+          "type": "seminar"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "Концепции современного естествознания",
+          "teacher": "Калиновский Ю.Л. Анисимова О.В. Полотнянко Н.А. Чермных Л.П.",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Плавание",
+          "teacher": "Калагина Л.И.",
+          "room": "",
+          "type": "sportLesson",
+          "building": "Олимп"
+        },
+        {
+          "number": 3,
+          "subject": "Основы ММ",
+          "teacher": "Волкова А.А.",
+          "room": "4-415",
+          "type": "seminar"
+        },
+        {
+          "number": 4,
+          "subject": "САОД",
+          "teacher": "Самойлов Ю.Е.",
+          "room": "1-430",
+          "type": "seminar"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Friday",
+      "oddWeek": [
+        {
+          "number": 1,
+          "subject": "Веб - технологии (В-Т)",
+          "teacher": "Филозова И.А.",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 2,
+          "subject": "Корпоративные информационные системы (КИС)",
+          "teacher": "Тимонина Л.С.",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "ЭКОНОМИКА И ПРЕДПРИНИМАТЕЛЬСТВО (ЭиП)",
+          "teacher": "Шокин Я В",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Основы менеджмента и маркетинга",
+          "teacher": "Волкова А.А.",
+          "room": "1-122",
+          "type": "lecture"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 1,
+          "subject": "",
+          "teacher": "",
+          "room": "",
+          "type": "seminar"
+        },
+        {
+          "number": 2,
+          "subject": "Корпоративные информационные системы (КИС)",
+          "teacher": "Тимонина Л.С.",
+          "room": "4-315",
+          "type": "lecture"
+        },
+        {
+          "number": 3,
+          "subject": "ЭКОНОМИКА И ПРЕДПРИНИМАТЕЛЬСТВО (ЭиП)",
+          "teacher": "Шокин Я В",
+          "room": "1-118",
+          "type": "lecture"
+        },
+        {
+          "number": 4,
+          "subject": "Основы менеджмента и маркетинга",
+          "teacher": "Волкова А.А.",
+          "room": "1-122",
+          "type": "lecture"
+        }
+      ]
+    },
+    {
+      "dayOfWeek": "Saturday",
+      "oddWeek": [],
+      "evenWeek": []
+    },
+    {
+      "dayOfWeek": "Sunday",
+      "oddWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ],
+      "evenWeek": [
+        {
+          "number": 0,
+          "type": "weekend"
+        }
+      ]
+    }
+  ]
+}
